@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+// This is the main activity that gets launched when the application is started
 public class Menu extends Activity implements OnClickListener {
     /** Called when the activity is first created. */
     @Override
